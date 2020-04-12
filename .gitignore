@@ -14,3 +14,6 @@ out/
 #ignore .DS_Store
 .DS_Store
 */.DS_Store
+
+#JavaDoc
+docs/
