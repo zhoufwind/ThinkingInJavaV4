@@ -1,0 +1,16 @@
+#ignore target under current directory and all subdirectories:
+target/
+*/target/
+test-output/
+*/test-output/
+
+# IntelliJ Idea
+.idea/
+out/
+*.ipr
+*.iws
+*.iml
+
+#ignore .DS_Store
+.DS_Store
+*/.DS_Store
