@@ -39,3 +39,11 @@ public class E02_Fibonacci {
         }
     }
 }
+
+/* Output:
+Seq. of 1: [1]
+Seq. of 5: [1, 1, 2, 3, 5]
+Seq. of 4: [1, 1, 2, 3]
+Seq. of 3: [1, 1, 2]
+Seq. of 2: [1, 1]
+ */
