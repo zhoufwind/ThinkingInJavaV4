@@ -70,3 +70,16 @@ public class E11_RaceCondition {
         exec.shutdown();
     }
 }
+
+/* Output
+Press Control-C to exit
+caught java.lang.IllegalStateException
+caught java.lang.IllegalStateException
+caught java.lang.IllegalStateException
+caught java.lang.IllegalStateException
+caught java.lang.IllegalStateException
+caught java.lang.IllegalStateException
+caught java.lang.IllegalStateException
+caught java.lang.IllegalStateException
+caught java.lang.IllegalStateException
+ */
